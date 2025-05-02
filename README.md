@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Tanishk
 
-I'm a tech-driven student of **CSE(Cloud Computing)** with a focus on building scalable and meaningful software projects.  
-Former co-founder of **TravelYatri**, a startup aimed at making off-beat and event-based travel accessible to Gen-Z explorers.  
-
+I'm a student of **CSE(Cloud Computing)**   
 I enjoy working at the intersection of **development**, **cloud computing**, and **data-driven problem solving**.
 
 ---
@@ -21,7 +19,7 @@ I enjoy working at the intersection of **development**, **cloud computing**, and
 ## 📚 Notable Involvements
 
 - ✅ Completed the **#DrGViswanathan 75-Day Coding Challenge**  
-- 🛰️ Presented ideas on **space commercialization** International Conference on Sustainable Aerospace Technologies and Innovations 
+- 🛰️ Presented ideas on **space commercialization** in International Conference on Sustainable Aerospace Technologies and Innovations 
 - 🧠 Finalist at **IIT Bombay’s Eureka Zonal Round**  
 - 🎤 Core team member of **Google Developer Group on Campus** (Event Management)
 
