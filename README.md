@@ -7,10 +7,6 @@ I enjoy working at the intersection of **development**, **cloud computing**, and
 
 ## 📌 Projects
 
-- **🛢 Carbon Footprint Assessment System**  
-  Assesses emissions for Indian coal mines — part of a larger goal to address environmental impact in energy sectors.  
-  **Tech:** Python, Excel, Matplotlib
-
 - **🧳 TravelYatri (Former Co-founder)**  
   Personalized, budget-friendly trip planner focused on college events, fests, and off-beat destinations.  
   **Tech:** React, Firebase, Tailwind CSS
