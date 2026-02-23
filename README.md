@@ -5,23 +5,31 @@ I enjoy working at the intersection of **development**, **cloud computing**, and
 
 ---
 
-## 📌 Projects
+## ⭐ Project Highlights 
 
-- **🧳 TravelYatri (Former Co-founder)**  
-  Personalized, budget-friendly trip planner focused on college events, fests, and off-beat destinations.  
-  **Tech:** React, Firebase, Tailwind CSS
+ **CarbMine**  
+Full-stack carbon analytics platform for the Indian coal industry — computes emissions, visualizes trends, and explores carbon-neutral strategies.  
+*Tech:* React, Flask, Python, Chart.js  
 
-- **📄 Smart Resume Maker**  
-  A web-based tool that generates clean, ATS-friendly resumes using structured input and modern UI.  
-  **Tech:** React, Tailwind CSS, JSON Mapping
+ **QueryCraft**  
+Natural language → SQL translator leveraging transformer models to enable intuitive database interaction.  
+*Tech:* Python, Hugging Face (T5 Text2SQL), JavaScript, HTML, CSS  
 
-- **🛠 CarbMine**  
-  A full-stack system designed to help the Indian coal industry calculate and analyze carbon emissions, visualize outputs, and explore carbon neutrality pathways.  
-  **Tech:** React, Flask, Python, Chart.js
+ **Engineering Plot CLI**  
+Python-based CLI toolkit for engineering plotting and structural visualization (SFD/BMD, 3D frame models).  
+*Tech:* Python, Matplotlib, pandas, Xarray  
 
-- **🔍 QueryCraft**  
-  A powerful tool that transforms **natural language into SQL queries**, enabling easy and efficient communication between humans and databases.  
-  **Tech:** Python, HTML, CSS, JavaScript, Hugging Face (T5-LM-Large-text2sql-spider), VS Code
+ **Smart Resume Maker**  
+ATS-friendly resume builder that converts structured input into clean, professional resumes with a modern UI.  
+*Tech:* React, Tailwind CSS, JSON Mapping  
+
+ **Fabrik — Design2Code**  
+Brutalist industrial design studio website built as part of a Design2Code challenge, focusing on UI fidelity and frontend craftsmanship.  
+*Tech:* TypeScript, React, CSS  
+
+**TravelYatri (Former Co-founder)**  
+Event-based travel planner focused on affordable, personalized trips for Gen-Z students and college communities.  
+*Tech:* React, Firebase, Tailwind CSS
 
 ---
 
