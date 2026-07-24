@@ -31,6 +31,7 @@
 | [📊 Engineering Plot CLI](https://github.com/tanishk001-ai/engineering-plot-cli) | CLI toolkit for SFD/BMD diagrams, 3D frame visualisation, and NetCDF scientific data plots | Python · Matplotlib · Xarray · Pandas |
 | [📄 Smart Resume Generator](https://github.com/tanishk001-ai/smartresume-generator) | ATS-friendly resume builder with live preview and structured export | React · Vite · Supabase · Tailwind CSS |
 | [🎨 Fabrik Design2Code](https://github.com/tanishk001-ai/fabrik-design2code) | Pixel-perfect Design2Code challenge — brutalist industrial studio UI | TypeScript · React · Vite |
+| [🎥 Anomaly Detection CVPR2018](https://github.com/tanishk001-ai/AnomalyDetectionCVPR2018-Pytorch) | Real-world surveillance video anomaly detection via deep MIL ranking (CVPR 2018), re-hosted from team collaboration | Python · PyTorch |
 
 ---
 
