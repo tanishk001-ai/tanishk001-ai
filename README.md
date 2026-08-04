@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishk001-ai&theme=dark&hide_border=true)
+![Streak](https://streak-stats.vercel.app/?user=tanishk001-ai&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=tanishk001-ai&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
