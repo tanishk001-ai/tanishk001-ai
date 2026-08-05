@@ -43,6 +43,4 @@
 
 ![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=tanishk001-ai&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishk001-ai&theme=github-compact&hide_border=true)
-
 </div>
